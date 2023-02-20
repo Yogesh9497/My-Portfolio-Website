@@ -329,6 +329,7 @@ body.light-theme{
 }
 
 .home__img{
+    height: 300px;
     width: 160px;
 }
 
